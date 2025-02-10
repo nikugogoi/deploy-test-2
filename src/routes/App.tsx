@@ -58,7 +58,7 @@ const App = () => {
     <div className="flex flex-col h-full">
       {/* Top Navigation Bar */}
       <div className="p-4 shadow-md fixed top-0 left-0 right-0 bg-white z-10">
-        <h1 className="text-center text-xl font-bold">Image App commit trigger</h1>
+        <h1 className="text-center text-xl font-bold">Image App commit trigger 2</h1>
       </div>
 
       {/* Main Content */}
